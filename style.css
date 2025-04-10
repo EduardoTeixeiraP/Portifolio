@@ -249,3 +249,7 @@ section {
                 0 0 30px var(--main-color),
                 0 0 70px var(--main-color);
 }
+
+.projects {
+    background-color: var(--second-bg-color);
+}
