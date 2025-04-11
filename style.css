@@ -73,6 +73,7 @@ h2 span {
     );
     background-clip: text;
     color: transparent;
+    font-weight: 600;
 }
 .logo span {
     font-family: "stretch";
@@ -149,15 +150,17 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 15rem;
+    gap: 12.3rem;
 }
 .home-content {
     display: flex;
     flex-direction: column;
     align-items: flex-end;
     text-align: left;
+    margin-top: 10rem;
 }
 .home-content h2 {
+    text-align: left;
     font-size: 4rem;
     font-weight: 600;
     margin-top: 1.5rem;
@@ -183,7 +186,7 @@ section {
                 0 0 70px var(--main-color);
 }
 .social-icons {
-    margin-right: 20vw;
+    margin-right: 306px;
 }
 .social-icons a {
     display: inline-flex;
@@ -196,7 +199,7 @@ section {
     border-radius: 50%;
     color: var(--main-color);
     margin: 3rem 0.5rem;
-    margin-top: 20rem;
+    margin-top: 15rem;
     transition: 0.3s ease-in-out;
 }
 .social-icons img {
@@ -250,6 +253,54 @@ section {
                 0 0 70px var(--main-color);
 }
 
+/* TECNOLOGIAS */
+.heading {
+    text-align: center;
+    font-size: 4rem;
+    margin: 5rem 0;
+}
+.tec-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    align-items: center;
+    gap: 2.5rem;
+}
+.tec-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--main-color);
+    height: 400px;
+    border-radius: 3rem;
+    cursor: pointer;
+    border: 5px solid transparent;
+    transition: 0.4s ease-in-out;
+}
+.tec-box p {
+    color: var(--main-color);
+}
+.tec-box:hover {
+    background: var(--second-bg-color);
+    color: var(--main-color);
+    border: 5px solid var(--main-color);
+    transform: scale(1.03);
+    height: 450px;
+}
+.tec-info {
+    display: inline-flex;
+    flex-direction: column;
+    text-align: justify;
+    justify-content: center;
+    align-items: center;
+    padding: 5rem;
+}
+.tec-info h4 {
+    font-size: 4rem;
+    margin: 2rem;
+}
+
+/* PROJETOS */
 .projects {
     background-color: var(--second-bg-color);
 }
+
