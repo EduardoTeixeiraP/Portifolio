@@ -23,4 +23,4 @@ Bem-vindo ao meu portfólio! Este projeto é uma apresentação sobre mim, meus 
 * **LinkedIn:** [Eduardo Teixeira](https://www.linkedin.com/in/prazerdu?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 * **Instagram:** [prazer.du](https://www.instagram.com/prazer.du?igsh=MW40dnR1bXJ0OTN6bw==)
 
-* 
+![Meu portfólio](IMG-20250416-WA0001.jpg)
