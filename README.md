@@ -5,7 +5,7 @@ Bem-vindo ao meu portfólio! Este projeto é uma apresentação sobre mim, meus 
 
 ## Sobre Mim
 
-[Durante minha fase de aprendizado, descobri uma grande paixão pela estilização de sites, onde posso expressar minha criatividade e ideias. Atualmente, meu foco é aprender ao máximo e me tornar um desenvolvedor front-end completo. Tenho treinado com sites que futuramente poderão ser vistos em meus projetos, onde poderão conhecer minhas habilidades e conhecimentos.]
+Durante minha fase de aprendizado, descobri uma grande paixão pela estilização de sites, onde posso expressar minha criatividade e ideias. Atualmente, meu foco é aprender ao máximo e me tornar um desenvolvedor front-end completo. Tenho treinado com sites que futuramente poderão ser vistos em meus projetos, onde poderão conhecer minhas habilidades e conhecimentos.
 
 ## Tecnologias Utilizadas
 
@@ -15,7 +15,7 @@ Bem-vindo ao meu portfólio! Este projeto é uma apresentação sobre mim, meus 
 
 ## Próximos Passos
 
-*   [Pretendo criar novos projetos para enriquecer meu portfólio, sobre jogos, filmes e outros interesses meus. Além de projetos mais sofisticados.]
+*   Pretendo criar novos projetos para enriquecer meu portfólio, sobre jogos, filmes e outros interesses meus. Além de projetos mais sofisticados.
 
 ## Contato
 
